@@ -1,0 +1,55 @@
+---
+layout:     post
+title:      "Hello 2024"
+subtitle:   " \"Hello World, Hello Blog\""
+date:       2024-08-16 15:38:00
+author:     "Hux"
+header-img: "img/post-bg-2024.jpg"
+catalog: true
+tags:
+    - Meta
+---
+# 香港中环街道一日行程
+
+## 上午
+
+### 9:00 AM - 早餐
+- **地点**: 蘭芳園 (Lan Fong Yuen)
+- **推荐**: 港式奶茶和猪扒包
+
+### 10:00 AM - 中环摩天轮
+- **地点**: 中环摩天轮 (Hong Kong Observation Wheel)
+- **活动**: 俯瞰维多利亚港的美丽风景
+
+### 11:00 AM - 乘坐缆车
+- **地点**: 太平山缆车 (Peak Tram)
+- **活动**: 前往太平山顶，途中欣赏城市风光
+
+## 中午
+
+### 12:00 PM - 午餐
+- **地点**: 香港仔海鲜市场 (Aberdeen Seafood Market)
+- **推荐**: 新鲜的海鲜大餐
+
+### 1:30 PM - 参观香港艺术馆
+- **地点**: 香港艺术馆 (Hong Kong Museum of Art)
+- **活动**: 欣赏各种艺术展览
+
+## 下午
+
+### 3:00 PM - 逛购物区
+- **地点**: 中环街市 (Central Market)
+- **活动**: 探索本地市场，购买特色商品
+
+### 4:30 PM - 参观历史建筑
+- **地点**: 旧中环警署 (Old Central Police Station)
+- **活动**: 了解香港的历史
+
+## 晚上
+
+### 6:00 PM - 晚餐
+- **地点**: 兰桂坊 (Lan Kwai Fong)
+- **推荐**: 体验当地餐馆或酒吧的美食和氛围
+
+### 8:00 PM - 夜游维多利亚港
+- **地点**
