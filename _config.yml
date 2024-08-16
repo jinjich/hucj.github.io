@@ -5,7 +5,7 @@ header-img: img/home-bg.jpg
 email: shark2hk@gmail.com
 description: "这里是我的个人博客，与你一起发现更大的世界 | 好好学技能 "
 keyword: "shark, shark blog, hiking, camping, huxpro, 博客, 个人网站, 互联网, Web, JavaScript, React, React Native, 前端, 设计"
-url: "https://huangxuan.me" # your host, for absolute URL
+url: "https://sharkchow.github.io" # your host, for absolute URL
 baseurl: "" # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
