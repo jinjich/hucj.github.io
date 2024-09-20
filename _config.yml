@@ -3,7 +3,7 @@ title: Chao Blog
 SEOTitle: 超的博客 | Chao Blog
 header-img: img/home-bg.jpg
 email: chaozhnn@gmail.com
-description: "这里是 @Chao 的个人博客，与你一起发现更大的世界 | 要做一个有 swag 的程序员"
+description: "这里是 @Chao 的个人博客，不安分让我们在此相遇 | 要做一个有多元思维实践者"
 keyword: "超, 召见, Chao, Chao_zhnn, @Chao_zhnn, 超的博客, Chao Blog, 博客, 个人网站, 互联网, Web, JavaScript, React, React Native, 前端, 设计"
 url: "https://bing.com" # your host, for absolute URL
 baseurl: "" # for example, '/blog' if your blog hosted on 'host/blog'
@@ -74,7 +74,7 @@ ga_domain: huangxuan.me
 
 # Sidebar settings
 sidebar: true # whether or not using Sidebar.
-sidebar-about-description: "要做一个有 swag 的程序员 <br> React Team @ Meta"
+sidebar-about-description: "要做一个有多元思维实践者 <br> React Team @ Meta"
 sidebar-avatar: https://github.com/Chao_zhnn.png # use absolute URL, seeing it's used in both `/` and `/about/`
 
 # Featured Tags
