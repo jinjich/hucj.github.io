@@ -1,3 +1,19 @@
+---
+layout: post
+title: "李继刚老师的超强指令！"
+subtitle: "Mr. Li Jigang's super powerful instructions!"
+author: "chao"
+header-style: text
+tags:
+  - lisp
+  - 即刻
+  - 李继刚
+  - Claude
+  - 指令
+  - prompt
+---
+
+
 # claude prompt
 > by 即刻 李继刚
 
