@@ -1,9 +1,9 @@
 # Site settings
 title: Rainyin's Blog
 SEOTitle: 铃音的博客 | Rainyin's Blog
-header-img: jpg/yinhono.jpg
+header-img: https://cdn.jsdelivr.net/gh/Yinhono/yinhono.github.io/jpg/yinhono.jpg
 email: Rainyincooli@outlook.com
-description: "铃音的个人博客"
+description: "铃音的博客"
 keyword: "铃音"
 url: "https://blog.ling-yin.top" # your host, for absolute URL
 baseurl: "" # for example, '/blog' if your blog hosted on 'host/blog'
@@ -69,8 +69,8 @@ netease_comment: false
 # ba_track_id: [your track id]
 
 # Google Analytics
-ga_track_id: "UA-49627206-1" # Format: UA-xxxxxx-xx
-ga_domain: huangxuan.me
+#ga_track_id: "UA-49627206-1" # Format: UA-xxxxxx-xx
+#ga_domain: huangxuan.me
 
 # Sidebar settings
 sidebar: false # whether or not using Sidebar.
