@@ -4,7 +4,7 @@ title:      "服务条款"
 subtitle:   "愿此行，终抵群星"
 date:       2024-11-3 19:20:00
 author:     "Rainyin"
-header-img: "jpg/Mar-7.jpg"
+header-img: "https://cdn.jsdelivr.net/gh/Yinhono/yinhono.github.io/jpg/Mar-7.jpg"
 catalog: true
 tags:
     - tos
